@@ -1,0 +1,15 @@
+.nav-item:hover {
+    background-color: #0e83e4;
+}
+
+.dropdown-menu {
+    background-color: #080808;
+}
+
+.dropdown-item:hover {
+    color: white;
+}
+
+h5 {
+    text-transform: uppercase;
+}
